@@ -1,0 +1,17 @@
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/icudtl.dat
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/flutter_windows.dll
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Bold.ttf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Regular.ttf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Quicksand-Bold.ttf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Quicksand-Light.ttf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Quicksand-Medium.ttf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Quicksand-Regular.ttf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Sono-Variable.ttf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/images/waiting.png
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

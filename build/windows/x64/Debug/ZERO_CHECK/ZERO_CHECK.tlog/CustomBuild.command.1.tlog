@@ -1,0 +1,10 @@
+^C:\SOFTWARES\FLUTTER\PROJECTS\MONEYCHECK\BUILD\WINDOWS\CMAKEFILES\751E2CE43D773DE1CE1A88E979D91862\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Softwares/Flutter/PROJECTS/moneyCheck/windows -BC:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/dummy_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

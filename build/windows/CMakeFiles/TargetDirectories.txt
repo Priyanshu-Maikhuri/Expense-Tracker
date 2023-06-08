@@ -1,0 +1,10 @@
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/CMakeFiles/INSTALL.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/CMakeFiles/dummy_app.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/CMakeFiles/ALL_BUILD.dir

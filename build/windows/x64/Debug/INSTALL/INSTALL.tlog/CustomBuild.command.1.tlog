@@ -1,0 +1,10 @@
+^C:\SOFTWARES\FLUTTER\PROJECTS\MONEYCHECK\BUILD\WINDOWS\CMAKEFILES\751E2CE43D773DE1CE1A88E979D91862\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
