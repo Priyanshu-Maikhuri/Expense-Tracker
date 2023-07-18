@@ -89,9 +89,16 @@ class _MyHomepageState extends State<MyHomePage> {
   }
 
   void _deleteTransaction(String id) {
+    String item =
+        _userTransactions.firstWhere((tx) => id == tx.transactionId).item;
     setState(() {
       _userTransactions.removeWhere((tx) => tx.transactionId == id);
     });
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+      content: Text('Transaction \'$item\' has been removed.'),
+      behavior: SnackBarBehavior.floating,
+      duration: Duration(seconds: 3),
+    ));
   }
 
   @override
@@ -100,13 +107,13 @@ class _MyHomepageState extends State<MyHomePage> {
         MediaQuery.of(context); //fore more efficiency and better performance
     final appBar = AppBar(
       title: Text("Money Manager"),
-      actions: [
-        IconButton(
-          onPressed: () {},
-          icon: Icon(Icons.menu),
-          color: Colors.black,
-        ),
-      ],
+      // actions: [
+      //   IconButton(
+      //     onPressed: () {},
+      //     icon: Icon(Icons.menu),
+      //     color: Colors.black,
+      //   ),
+      // ],
     );
     final mode = (mq.orientation == Orientation.landscape);
     final txlist = Container(

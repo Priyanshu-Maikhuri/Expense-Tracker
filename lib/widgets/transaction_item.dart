@@ -26,7 +26,7 @@ class _TransactionItemState extends State<TransactionItem> {
   void initState() {
     const availableColors = [
       Colors.black,
-      Colors.indigo,
+      Colors.yellow,
       Colors.deepPurple,
       Colors.deepOrange
     ];

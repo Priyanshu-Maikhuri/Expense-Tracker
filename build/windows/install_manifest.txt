@@ -1,6 +1,7 @@
 C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/icudtl.dat
 C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/flutter_windows.dll
 C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/AssetManifest.smcbin
 C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Bold.ttf
 C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Regular.ttf
 C:/Softwares/Flutter/PROJECTS/moneyCheck/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Quicksand-Bold.ttf
